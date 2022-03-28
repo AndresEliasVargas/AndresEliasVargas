@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andres Elias Vargas
 - 👀 I’m interested in Wen development, play guitar and play videogames.
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Next.js and React
 - 💞️ I’m looking to collaborate on diferent new or old projects.
 - 📫 How to reach me andreselias.vargas@gmail.com
 
